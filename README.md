@@ -96,3 +96,9 @@ fi
 
 exit 0
 ```
+stage before ![alt text](https://github.com/PeterFumelli/DR-Keepalived/blob/main/img/cisco_conf.png)
+
+![alt text](https://github.com/PeterFumelli/DR-Keepalived/blob/main/img/cisco_conf.png)
+
+
+stage after ![alt text](https://github.com/PeterFumelli/DR-Keepalived/blob/main/img/cisco_conf.png)
