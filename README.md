@@ -75,6 +75,7 @@ vrrp_script check_web {
 
 конфигурационный файл keepalived
 
+```
 # !/bin/bash
 
 PORT=80
